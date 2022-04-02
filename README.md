@@ -1,1 +1,1 @@
-# MinimalSquaresHW
+# LeastSquaresHW
